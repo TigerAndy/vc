@@ -14,6 +14,12 @@ int _tmain(int argc, _TCHAR* argv[])
 	int c=300;
 	cout <<c<<endl;
 
+	int sum_abc=0;
+	sum_abc=a+b+c;
+
+	cout<<"sum_abc: "<<sum_abc<<endl;
+
+
 	return 0;
 }
 
