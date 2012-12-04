@@ -19,6 +19,11 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cout<<"sum_abc: "<<sum_abc<<endl;
 
+	cout<<"please input new a: "<<endl;
+	cin>>a;
+	cout<<"new a"<<a<<endl;
+	
+
 
 	return 0;
 }
