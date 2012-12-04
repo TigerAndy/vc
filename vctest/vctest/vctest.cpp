@@ -14,6 +14,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	int c=300;
 	cout <<c<<endl;
 
+	int d=400;
+	cout<<d<<endl;
+
 	return 0;
 }
 
